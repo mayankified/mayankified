@@ -7,10 +7,8 @@
 
 <h3>🧐 Some Things About Me</h3>
 
-- 💻 I make programming Content on [Instagram](https://www.instagram.com/code_station_/)
-- 🌱 I’m currently learning **DSA**
-- 💬 Ask me about **Web development**
-- 🏆 2022 Goals: Contribute more to Open Source Projects.
-- 📫 How to reach me **achalpardeshi159@gmail.com**
-- ⚡ Fun fact ** Mandala Artist🎨, INTJ. **
+- 🌱 I’m currently learning **DSA** and **Web development**
+- 🏆 2023 Goals: Contribute more to Open Source Projects.
+- 📫 Student at NIT Surat.
+
 
